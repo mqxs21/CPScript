@@ -21,10 +21,10 @@ if %ERRORLEVEL% neq 0 (
 cls
 
 echo ------------------------------------------------------------------------------------
-echo *** Welcome to Sharon CyberPatriot Windows 10 and Server2019 script^^!             ***
-echo *** Made by CaptainClumsy of team 14-3178 and 15-3557 of Sharon High School      ***
-echo *** Use of this script for a CyberPatriot competition by anyone not on a Sharon  ***
-echo ***     High School team is forbidden by CyberPatriot rules                      ***
+echo ***              ***
+echo ***    ***
+echo ***   ***
+echo ***    This was tweaked              ***
 echo *** In the following options, choose y for yes, n for no, and c to cancel script ***
 echo ------------------------------------------------------------------------------------
 echo:
